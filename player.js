@@ -1,5 +1,5 @@
 // Designed by: Mauricio Bucardo
-// Original image: https://cdn.dribbble.com/users/956577/screenshots/6957353/media/92a7f6673bfde1bb21c5941d9bccfb71.gif
+// Original image: https://dribbble.com/shots/10163016-Music-Player-Interaction
 "use strict";
 // add elemnts
 const bgBody = [
